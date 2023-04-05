@@ -7,7 +7,7 @@ import Tools
 
 # Aqui é guardado o nome de usuários, mas apenas por tempo limitado, usada para verificação.
 listNames = []
-fileName = "login-basico/Users.txt"
+fileName = "Users.txt"
 
 # Função para procurar por um nome que seja idêntico ao nome de usuário e senha cadastrado
 def lookforName():
